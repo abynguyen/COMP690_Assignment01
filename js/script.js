@@ -170,12 +170,12 @@
 
 
 // 22.	Using a set of Comparison and Logical operators, write an application that evaluates to false and displays the result within the console window. The application cannot use the same operators used in the previous application.
-//      let age = 10
-//      let anotherAge = 10
-//      if(age != anotherAge)
-//          console.log('True, ' + age + 'is not the same value as ' + anotherAge + '.')
-//      else
-//          console.log('False, ' + age + ' is the same value as ' + anotherAge + '.')
+     let age = 10
+     let anotherAge = 10
+     if(age != anotherAge)
+         console.log('True, ' + age + 'is not the same value as ' + anotherAge + '.')
+     else
+         console.log('False, ' + age + ' is the same value as ' + anotherAge + '.')
 
 
 
